@@ -292,7 +292,6 @@ body {
 }
 
 .copyrightSection {
-  background-color: #7b113a;
   color: #fff;
   padding: 30px 5px;
 }
@@ -349,4 +348,16 @@ body {
   width: 100%;
   height: 100%;
   background-size: url(../img/rocket1.gif) center center no-repeat;
+}
+
+.container-fluid1 {
+  margin-left: 490px;
+}
+
+.container-fluid2 {
+  margin-left: 150px;
+}
+
+.col {
+  color: aqua;
 }
